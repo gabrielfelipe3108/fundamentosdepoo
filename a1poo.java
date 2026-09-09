@@ -1,7 +1,8 @@
 //o dominio: personagem
 //as duas classes: personagem e batalha
 // seus atributos: nome e vida
-//as duas validacoes pretendidas sao: vida nao pode ser menor ou igual a zero e verificar se o personagem esta vivo
+//a validacao pretendidas e: verificar se o personagem esta vivo
+//
 
 public class a1poo {
 public static void main(String[] args) {
@@ -44,3 +45,9 @@ boolean estaVivo(){
     return vida > 0;
     }
 }
+
+//o trecho que deu mais trabalho foi na parte do return da ficha, ja que a gramatica do java e nova para mim 
+//os criterios que nao atingi foi fazer as duas verificacoes, fiz so uma, pois ja tinha declarado a vida dos personagens pelo codigo
+//eu utilizei ia, para me ajudar na parte da gramatica na parte do return com a vida depois do dano 
+//ela atrapalhou na parte da correção do código, pois havia muitos termos novos em java que ainda nao sei, ai preferi manter o meu codigo realizado em sala mesmo
+// utilizei mais os slides das aulas passadas para ter como base
