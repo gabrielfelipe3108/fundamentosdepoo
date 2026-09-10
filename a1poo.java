@@ -1,7 +1,7 @@
 //o dominio: personagem
 //as duas classes: personagem e batalha
 // seus atributos: nome e vida
-//a validacao pretendidas e: verificar se o personagem esta vivo
+//a validacao pretendida e: verificar se o personagem esta vivo
 //
 
 public class a1poo {
