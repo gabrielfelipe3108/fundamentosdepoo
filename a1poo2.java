@@ -1,3 +1,7 @@
+//o dominio: carro
+//as duas classes: carro e colisao
+// seus atributos: nome e resistencia
+//a validacao pretendida e: verificar a resistencia apos a colisao
 public class a1poo2 {
     public static void main(String[] args) {
 
